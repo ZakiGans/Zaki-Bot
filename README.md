@@ -1,5 +1,7 @@
 <p align="center">
 
+* BELUM SEPENUHNYA JADI
+
 </p>
 <p align="center">
 <a href="#"><img title="ZAKIGANS" src="https://img.shields.io/badge/Zaki-Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
